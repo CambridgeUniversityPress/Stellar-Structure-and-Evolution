@@ -1,10 +1,7 @@
 # *Stellar Structure and Evolution*
 
 Jupyter notebooks, python code, and selected data files and sources for the figures from Pinsonneault &amp; Ryden, 
-[*Stellar Structure and Evolution*]() coming soon.
-
-This is a placeholder for building the notebook repository similar to that for *Interstellar and Intergalactic Medium*. It will be released
-when the book is published.
+[*Stellar Structure and Evolution*](), coming in 2023.
 
 ## Overview
 *Stellar Structure and Evolution* by Marc Pinsonneault and Barbara S. Ryden is the secind volume in *The Ohio State Astrophysics Series* of 
@@ -43,5 +40,5 @@ reference to the *Interstellar and Intergalactic Medium* and this repository.
 
 ### License Notice
 
-All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), to foster
-broader use of the notebooks and their data by teachers and students.
+All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), 
+to foster broader use of the notebooks and their data by teachers and students.
