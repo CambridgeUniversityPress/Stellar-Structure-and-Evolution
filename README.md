@@ -25,6 +25,8 @@ All notebooks were developed in Python 3 using the [Anaconda Python distribution
 
 Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda.
 
+runtime.txt and requirements.txt setup to allow running the notebooks with binder.
+
 LaTeX is required for math symbols in the notebooks.
 
 ## Download, Install, and Updates
