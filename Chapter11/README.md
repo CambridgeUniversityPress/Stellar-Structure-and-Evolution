@@ -30,11 +30,12 @@ the first three modes in an n=3 polytrope with gamma=5/3. Data are from from Sch
 
 Light curve of multi-mode classical Cepheid star OGLE-LMC-CEP-0832 phased to the fundamental period, then the isolated 
 light curves for the fundamental and first-overtone modes.  Data are from See Soszynski et al. 2008, AcA, 58, 163
-<dl>
-    <dd>OGLE-LMC-CEP-0832.txt - full light curve
-    <dd>OGLE-LMC-CEP-0832_a.txt - isolated light curve of the fundamental mode
-    <dd>OGLE-LMC-CEP-0832_b.txt - isolated light curve of the first-overtone mode
-</dl>
+
+`OGLE-LMC-CEP-0832.txt` - full light curve
+
+`OGLE-LMC-CEP-0832_a.txt` - isolated light curve of the fundamental mode
+
+`OGLE-LMC-CEP-0832_b.txt` - isolated light curve of the first-overtone mode
 
 ### Figure 11.8 - Kepler power spectrum of 16 Cygni A
 
