@@ -36,8 +36,8 @@ The `ZAMS/` folder has these files extracted from MESA interiors calculations:
 The `CoreAbund/` folder has core abundance profiles for 1 and 4 M<sub>sun</sub> stars at a range
 of stellar ages starting from the ZAMS:
 <dl>
-  <dd>abund_1M_*age*.txt - 1M<sub>sun</sub> star, age = (zams, 1, 4, 5, 8, 10 Gyr)
-  <dd>abund_4m_*age*.txt - 4M<sub>sun</sub> star, age = (zams, 25, 50, 75, 100, 125, 150 Myr)
+  <dd>abund_1M_age.txt - 1M<sub>sun</sub> star, age = (zams, 1, 4, 5, 8, 10 Gyr)
+  <dd>abund_4m_age.txt - 4M<sub>sun</sub> star, age = (zams, 25, 50, 75, 100, 125, 150 Myr)
 </dl>
 
 
