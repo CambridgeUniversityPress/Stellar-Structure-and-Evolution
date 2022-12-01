@@ -1,0 +1,29 @@
+#
+# Praesepe rotation period distribution
+#
+# Source: Stellar Rotation in the Gaia Era: Revised Open Clusters Sequences 
+#         Godoy-Rivera D., Pinsonneault M.H., Rebull L.M., 2021, ApJS, 257, 46
+# https://ui.adsabs.harvard.edu/abs/2021ApJS..257...46G
+# 
+# Percentiles of the distribution of rotation periods as a function of mass
+# and age.
+#
+# mass - mass in Msun
+# Nstar - number of stars in bin
+# lp50 - log10 median period in days
+# lp50-25 log10(p50)-log10(p25) in days
+# lp75-50 log10(p75)-log10(p50) in days
+mass Nstar lp50 lp50-25 lp75-50
+0.20 132 -0.197 0.283 0.253
+0.30 186  0.274 0.171 0.433
+0.40  86  1.103 0.591 0.211
+0.50  53  1.276 0.447 0.043
+0.60  63  1.189 0.549 0.034
+0.70  55  1.113 0.027 0.021
+0.80  29  1.037 0.019 0.026
+0.90  34  0.982 0.020 0.021
+1.00  30  0.949 0.044 0.009
+1.10  22  0.835 0.062 0.062
+1.20  14  0.573 0.079 0.132 
+1.30  12  0.429 0.426 0.134
+1.40   8  0.038 0.187 0.245

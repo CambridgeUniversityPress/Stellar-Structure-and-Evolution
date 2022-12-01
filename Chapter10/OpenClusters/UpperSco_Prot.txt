@@ -1,0 +1,29 @@
+#
+# Upper Scorpius rotation period distribution
+#
+# Source: Stauffer, J. et al. 2018, AJ, 156, 275
+# https://ui.adsabs.harvard.edu/abs/2018AJ....156..275S
+#
+# Percentiles of the distribution of rotation periods as a function of mass
+# and age.
+#
+# mass - mass in Msun
+# Nstar - number of stars in bin
+# lp50 - log10 median period in days
+# lp50-25 log10(p50)-log10(p25) in days
+# lp75-50 log10(p75)-log10(p50) in days
+mass Nstar lp50 lp50-25 lp75-50
+0.10  85  0.0667 0.1893 0.1355
+0.20 179  0.2271 0.2230 0.1115
+0.30 121  0.3860 0.1479 0.1707
+0.40  72  0.7011 0.3220 0.2065
+0.50  37  0.7050 0.2841 0.0936
+0.60  43  0.7571 0.1770 0.1819
+0.70  37  0.7827 0.2223 0.1287
+0.80  14  0.8538 0.1766 0.1067
+0.90  14  0.6276 0.1589 0.1020
+1.00   9  0.6550 0.1706 0.3156
+1.10  14  0.6489 0.1961 0.2985
+1.20  28  0.4616 0.1092 0.2055
+1.30  19  0.2408 0.2256 0.2532
+1.40   9 -0.0424 0.0529 0.3351

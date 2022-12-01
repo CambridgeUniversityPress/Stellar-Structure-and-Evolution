@@ -1,0 +1,27 @@
+#
+# Pleiades rotation period distribution
+#
+# Source: Stellar Rotation in the Gaia Era: Revised Open Clusters Sequences 
+#         Godoy-Rivera D., Pinsonneault M.H., Rebull L.M., 2021, ApJS, 257, 46
+# https://ui.adsabs.harvard.edu/abs/2021ApJS..257...46G
+#
+# Percentiles of the distribution of rotation periods as a function of mass
+# and age.
+#
+# mass - mass in Msun
+# Nstar - number of stars in bin
+# lp50 - log10 median period in days
+# lp50-25 log10(p50)-log10(p25) in days
+# lp75-50 log10(p75)-log10(p50) in days
+mass Nstar lp50 lp50-25 lp75-50
+0.20 268  -0.352 0.160 0.167
+0.30 132  -0.077 0.137 0.171
+0.40  70   0.055 0.377 0.246
+0.50  40   0.333 0.557 0.239
+0.60  54   0.590 0.369 0.233
+0.70  35   0.699 0.951 0.175
+0.80  23   0.833 0.046 0.050
+0.90  28   0.736 0.130 0.037
+1.00  20   0.601 0.083 0.057
+1.10  18   0.390 0.060 0.099
+1.20  14   0.281 0.212 0.210
