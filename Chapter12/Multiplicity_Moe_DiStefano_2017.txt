@@ -1,0 +1,19 @@
+#
+# Stellar Multiplicity Statistics
+#
+# Source: Moe & Di Stefano 2017, ApJS, 230, 15, Table 13
+#
+# logM: log (mean mass in bin)  -- all masses in solar mass units
+# logM_l: log (mean mass / lower mass limit)
+# logM_u: log (upper mass limit / mean mass)
+# F_m: multiplicity frequency
+# errFm: error in F_m
+# F_c: companion frequency
+# errFc: error in F_c
+#
+logM    logM_l  logM_u  F_m   errFm F_c   errFc
+0.0000  0.0969  0.0792  0.40  0.04  0.50  0.04
+0.5441  0.2430  0.1549  0.59  0.08  0.84  0.11
+0.8451  0.1461  0.1091  0.76  0.08  1.30  0.20
+1.0969  0.1427  0.1072  0.84  0.09  1.60  0.20
+1.4472  0.2430  0.1549  0.94  0.06  2.10  0.30
