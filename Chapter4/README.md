@@ -20,12 +20,12 @@ Figures from Chapter 4 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 4.2 - Oxygen and iron opacity
 
-Data files in the Kappa/ folder are models calculated by Dr. Franck Delahaye, LERMA - Observatoire de Paris., Site de Meudon for oxygen and iron
+The `Kappa/` folder contains models calculated by Dr. Franck Delahaye, LERMA - Observatoire de Paris., Site de Meudon for oxygen and iron
 opacities in solar metallicity gas.  See the 00Readme.txt file in that folder for details and the filename convention.
 
 ### Figure 4.3 - Rosseland Mean Opacity
 
-Data files in the Rosseland/ folder are rosseland mean opacity as a function of temperature for gas of solar abundance (photosphere: X=0.749, Y=0.238, Z=0.013)
+The `Rosseland/` folder contains models of rosseland mean opacity as a function of temperature for gas of solar abundance (photosphere: X=0.749, Y=0.238, Z=0.013)
 calculated for different densities from the [Opacity Project OPserver](opacities.osc.edu/rmos.shtml).
 
 Files have names
