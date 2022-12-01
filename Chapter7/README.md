@@ -13,7 +13,7 @@ Figures from Chapter 7 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 7.2 - PMS evolution models
 
-The MIST/ folder has evolutionary tracks and isochrones for pre-main sequence (PMS) stars
+The `MIST/` folder has evolutionary tracks and isochrones for pre-main sequence (PMS) stars
 compute using MIST/MESA:
 
 Evolutionary tracks for different masses:
