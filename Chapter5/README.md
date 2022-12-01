@@ -17,28 +17,33 @@ Figures from Chapter 5 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 5.1 - Nuclear binding energy
 
-AME2020 data files from the [Atomic Mass Data Center website](https://www-nds.iaea.org/amdc/)
+AME2020.txt from the [Atomic Mass Data Center website](https://www-nds.iaea.org/amdc/)
 
 ### Figure 5.2 - Astrophysical S-factor
 
 Data are from laboratory experiments, models adapted from Xu et al. 2013, Figure 79.
+<dl>
+    <dd>14Npg15O_data.txt - experimental data
+    <dd>14Npg15O_model.txt - model calculations
+</dl>
 
 ### Figure 5.4 and 5.8 - BP2004 Solar Model
 
-Data file from Bahcall and Pinsonneault 2004, astro-ph/0402114, data file provided in this folder
+BP2004_Standard.txt - Data file from Bahcall and Pinsonneault 2004, astro-ph/0402114
 
 ### Figure 5.6 - Solar neutrino data
 
 The data files are from [John Bahcall's Neutrino Software and Data](http://www.sns.ias.edu/~jnb/SNdata/sndata.html).  The text files used to plot
 the energy spectra are as follows:
 <dl>
- <dd>pp: http://www.sns.ias.edu/~jnb/SNdata/ppspectrum.html
- <dd><sup>8</sup>B: http://www.sns.ias.edu/~jnb/SNdata/b8spectrum.html
- <dd>CNO: http://www.sns.ias.edu/~jnb/SNdata/cnospectra.html
+ <dd>pp.txt - p-p chain data
+ <dd>hep.txt - HEP channel data
+ <dd>boron8.txt - <sup>8<sup>B channel data
+ <dd>nitrogen13.txt - <sup>13</sup>N channel data
+ <dd>oxygen15.txt - <sup>15</sup>O channel data
+ <dd>fluorine17.txt  <sup>17</sup>F channel data
 </dl>
-Some reformatting was required to get into a common file format for this plot and these reformatted data are in the directory with the notebooks.
-
-## Images
+Some reformatting was required to get all of these different data files into a common file format for this plot.
 
 ## Revision History
 
