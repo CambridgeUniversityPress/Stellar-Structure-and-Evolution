@@ -17,6 +17,7 @@ Figures from Chapter 1 of Pinsonneault & Ryden, *Stellar Structure and Evolution
     <dd>Figure 1.13 - Main sequence M-R relation
     <dd>Figure 1.14 - Pleiades cluster H-R and Prot diagrams
 </dl>
+
 ## Data Files
   
 ## Images
