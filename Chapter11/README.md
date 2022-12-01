@@ -60,11 +60,11 @@ Data files were reduced and provided to the authors by Dr. Mathieu Vrard, then a
 
 ### Figure 11.10 - Radii and masses observed by Kepler
 
+Data are from Pinsonneault, M., et al. 2022, in prep, in 2 CSV files:
+
 `RM_Kepler_RG.csv` - radius/mass data from Red Giant stars observed with Kepler
 
 `RM_Kepler_RC.csv` - radius/mass data for Red Clump stars observed with Kepler
-
-Provenance:  waiting on Pinsonneault...
 
 ## Revision History
 
