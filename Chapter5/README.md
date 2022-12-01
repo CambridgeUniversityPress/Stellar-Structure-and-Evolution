@@ -17,19 +17,21 @@ Figures from Chapter 5 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 5.1 - Nuclear binding energy
 
-AME2020.txt from the [Atomic Mass Data Center website](https://www-nds.iaea.org/amdc/)
+<dl>
+<dd>`AME2020.txt` from the [Atomic Mass Data Center website](https://www-nds.iaea.org/amdc/)
+</dl>
 
 ### Figure 5.2 - Astrophysical S-factor
 
 Data are from laboratory experiments, models adapted from Xu et al. 2013, Figure 79.
 <dl>
-    <dd>14Npg15O_data.txt - experimental data
-    <dd>14Npg15O_model.txt - model calculations
+    <dd>`14Npg15O_data.txt` - experimental data
+    <dd>`14Npg15O_model.txt` - model calculations
 </dl>
 
 ### Figure 5.4 and 5.8 - BP2004 Solar Model
 
-BP2004_Standard.txt - Data file from Bahcall and Pinsonneault 2004, astro-ph/0402114
+`BP2004_Standard.txt` - Data file from Bahcall and Pinsonneault 2004, astro-ph/0402114
 
 ### Figure 5.6 - Solar neutrino data
 
