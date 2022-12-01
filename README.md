@@ -1,7 +1,9 @@
 # *Stellar Structure and Evolution*
 
 Jupyter notebooks, python code, and selected data files and sources for the figures from Pinsonneault &amp; Ryden, 
-[*Stellar Structure and Evolution*](), coming in 2023.
+[*Stellar Structure and Evolution*](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27), coming in August 2023.
+
+[!["SSE Cover"](Misc/SSE_Cover_512.png?raw=true "Stellar Structure and Evolution")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
 
 ## Overview
 *Stellar Structure and Evolution* by Marc Pinsonneault and Barbara S. Ryden is the secind volume in *The Ohio State Astrophysics Series* of 
