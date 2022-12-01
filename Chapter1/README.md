@@ -26,7 +26,7 @@ The grayscale images in Figures 1.1 and 1.5 were created from original color ima
 Solar Dynamics Explorer HMI 6173A image for UTC 2022 May 20 19:52:39 [20220520_195238_4096_HMII.jpg](https://sdo.gsfc.nasa.gov/data/aiahmi/)
 
 ### Figure 1.5a - Betelgeuse visible light
-VLT + SPHERE + ZIMPOL image of Betelgeuse at 645nm: [ESO 2003b](https://www.eso.org/public/images/eso2003b/))
+VLT + SPHERE + ZIMPOL image of Betelgeuse at 645nm: [ESO 2003b](https://www.eso.org/public/images/eso2003b/)
 
 ### Figure 1.5b - Betelgeuse UV light
 *Hubble Space Telescope* UV images from [Uitenbroek et al. 1998, AJ, 116, 2501, Figure 12](https://iopscience.iop.org/article/10.1086/300596/fulltext)
