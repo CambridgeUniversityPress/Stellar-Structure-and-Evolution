@@ -15,8 +15,8 @@ Figures from Chapter 10 of Pinsonneault & Ryden, *Stellar Structure and Evolutio
 
 ### Figure 10.4 - Core/envelope rotation
 
-`CoreEnvelope.txt` contains a compilation of core/envelope rotation data derived from 
-Aerts et al. 2019, ARA&A, 57, 35 (and references therein), and Deheuvels et al. 2020, A&A, 641, 117.
+`CoreEnvelope.txt` contains a compilation of core/envelope rotation data derived from Aerts et al. 2019, ARA&A, 57, 35 (and references therein), 
+and Deheuvels et al. 2020, A&A, 641, 117, compiled for the authors by Jamie Tayar (U Florida).
 
 ### Figure 10.5 - mixing of Nitrogen
 
@@ -26,7 +26,7 @@ age for non-rotating and rotating stars derived from MESA solar-abundance models
   <dd>nonRot_##Msun.csv - non-rotating stars, ## = (3,10,30) M<sub>sun</sub>
   <dd>rot_##Msun.csv - rotating stars, ## = (3,10,30) M<sub>sun</sub>
 </dl>
-The `RotationalMixing_All.csv` file merges the 6 files above into one, but is not used by the notebook.
+The `RotationalMixing_All.csv` file merges the 6 files above into one, but is not used by the Jupyter notebook.
 
 ### Figure 10.7 - flux variation in the Sun and Sun-like Kepler stars
 
