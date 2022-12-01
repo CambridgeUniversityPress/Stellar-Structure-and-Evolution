@@ -18,7 +18,7 @@ Figures from Chapter 6 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 6.1 - Polytropes
 
-The LaneEmden/ folder has data files for three polytrope models
+The `LaneEmden/` folder has data files for three polytrope models
 <dl>
   <dd>poly_n0.0.txt - n=0 polytrope
   <dd>poly_n1.5.txt - n=1.5 polytrope
@@ -27,7 +27,7 @@ The LaneEmden/ folder has data files for three polytrope models
 
 ### Figure 6.2, 6.3, 6.4 - Model Sun
 
-The ModelSun/ folder has these solar interiors models
+The `ModelSun/` folder has these solar interiors models
 <dl>
     <dd>Sun_models.txt - uniform density and n=3 polytrope models (Figure 6.2)
     <dd>BP2004_Standard.txt - Bahcall & Pinsonneault 2004 standard solar model (Figure 6.2)
@@ -37,7 +37,7 @@ The ModelSun/ folder has these solar interiors models
 
 ### Figure 6.5 thru 6.8 - Zero-Age Main Sequence (ZAMS) models
 
-The ZAMS/ folder has these Zero-Age Main Sequence solar-metallicity stellar models calculated using MESA/MIST:
+The `ZAMS/` folder has these Zero-Age Main Sequence solar-metallicity stellar models calculated using MESA/MIST:
 <dl>
   <dd>profile_m0.3_zams.txt - 0.3 M<sub>sun</sub> ZAMS star
   <dd>profile_m1_zams.txt - 1 M<sub>sun</sub> ZAMS star
