@@ -18,12 +18,12 @@ compute using MIST/MESA:
 
 Evolutionary tracks for different masses:
 <dl>
-  <dd>pms_M<mass>_track.txt - where <mass> = (0.10, 0.25, 0.50, 1.00, 2.00, 4.00, 6.00) M<sub>sun</sub>
+  <dd>pms_M#.##_track.txt - where <mass> = (0.10, 0.25, 0.50, 1.00, 2.00, 4.00, 6.00) M<sub>sun</sub>
 </dl>
 
 Isochrones for these masses for different ages:
-</dl>
-  <dd>pms_t<age>_iso.txt - where <age> = (1e5, 1e6, 1e7, and 1e8) years.
+<dl>
+  <dd>pms_t###_iso.txt - where <age> = (1e5, 1e6, 1e7, and 1e8) years.
 </dl>
 
 The file `MIST_FeH0_ZAMS.txt` contains the data for the Zero-Age Main Sequence plotted in this figure.
@@ -32,7 +32,7 @@ The file `MIST_FeH0_ZAMS.txt` contains the data for the Zero-Age Main Sequence p
     
 The `Burrows93/` folder has data from Burrows et al. 1993 and 1997 from www.astro.princeton.edu/~burrows. Filenames converted to the form 
 <dl>
-  <dd>burrows93_M<mass>.txt - where <mass> is the mass in units units of 0.001M<sub>sun</sub>.
+  <dd>burrows93_M###.txt - where <mass> is the mass in units units of 0.001M<sub>sun</sub>.
 </dl>
 The original data were converted into units of Myr vs luminosity in L<sub>sun</sub>.
 
