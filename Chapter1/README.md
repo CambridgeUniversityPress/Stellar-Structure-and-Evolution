@@ -5,7 +5,7 @@ Figures from Chapter 1 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 ## Jupyter Notebooks
 <dl>
     <dd>Figure 1.2 - Solar irradiance
-    <dd>Figure 1.3 - Solar apectrum
+    <dd>Figure 1.3 - Solar spectrum
     <dd>Figure 1.4 - Solar abundances
     <dd>Figure 1.6 - Alpha Centauri A,B orbit
     <dd>Figure 1.7 - P-Cygni star spectral line profile
