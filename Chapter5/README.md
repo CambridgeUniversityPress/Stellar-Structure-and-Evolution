@@ -38,7 +38,7 @@ the energy spectra are as follows:
 <dl>
  <dd>pp.txt - p-p chain data
  <dd>hep.txt - HEP channel data
- <dd>boron8.txt - <sup>8<sup>B channel data
+ <dd>boron8.txt - <sup>8</sup>B channel data
  <dd>nitrogen13.txt - <sup>13</sup>N channel data
  <dd>oxygen15.txt - <sup>15</sup>O channel data
  <dd>fluorine17.txt  <sup>17</sup>F channel data
