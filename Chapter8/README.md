@@ -25,20 +25,21 @@ The `OpenClusters/` folder has Gaia DR2 color-maginitude data for 4 open cluster
 ### Figure 8.2 - ZAMS interior models 
 
 The `ZAMS/` folder has these files extracted from MESA interiors calculations:
-<dl>
-  <dd>l50r50zams.txt - 50% luminosity and depth points at M/M<sub>sun</sub>
-  <dd>convLower.txt - contour of the convection zone boundary at low mass (M<0.3M<sub>sun</sub>)
-  <dd>convUpper.txt - contour of the convection zone boundary at high masses (M>1.2M<sub>sun</sub>)
-</dl>
+
+`l50r50zams.txt` - 50% luminosity and depth points at M/M<sub>sun</sub>
+
+`convLower.txt` - contour of the convection zone boundary at low mass (M<0.3M<sub>sun</sub>)
+
+`convUpper.txt` - contour of the convection zone boundary at high masses (M>1.2M<sub>sun</sub>)
 
 ### Figure 8.3 - MESA core abundance data
 
 The `CoreAbund/` folder has core abundance profiles for 1 and 4 M<sub>sun</sub> stars at a range
 of stellar ages starting from the ZAMS:
-<dl>
-  <dd>abund_1M_age.txt - 1M<sub>sun</sub> star, age = (zams, 1, 4, 5, 8, 10 Gyr)
-  <dd>abund_4m_age.txt - 4M<sub>sun</sub> star, age = (zams, 25, 50, 75, 100, 125, 150 Myr)
-</dl>
+
+`abund_1M_age.txt` - 1M<sub>sun</sub> star, age = (zams, 1, 4, 5, 8, 10 Gyr)
+
+`abund_4m_age.txt` - 4M<sub>sun</sub> star, age = (zams, 25, 50, 75, 100, 125, 150 Myr)
 
 ### Figure 8.4 - Terminal Age Main Sequence (TAMS) hydrogen profiles
 
@@ -47,10 +48,11 @@ The `TAMS/` folder has core abundance profiles for 0.3, 1, 3, 10, and 30 M<sub>s
 ### Figure 8.5 - Evolutionary H-R diagrams
 
 The `HREvolution/` folder has H-R Diagrams showing the evolution of stars with mass M = 1, 3, 10, and 30 M<sub>sun<sub>.  There are 5 files
-<dl>
-<dd>HRDiagrams_##Msun.csv - data for an ##= (1, 3, 10, 30) M<sub>sun</sub> stars.
-<dd>HRDiagrams_all.csv - merged version of the 4 named CSV files
-</dl>
+
+`HRDiagrams_##Msun.csv` - data for an ##= (1, 3, 10, 30) M<sub>sun</sub> stars.
+
+`HRDiagrams_all.csv` - merged version of the 4 named CSV files
+
 Data were calculated using MESA and converted into convenient form for these notebooks.
 
 ### Figure 8.6 - Dredge-up in cluster NGC6397
