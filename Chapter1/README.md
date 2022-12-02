@@ -57,6 +57,25 @@ The Jupyter notebook uses this file to label the spectra.
 `GALAH_DR3.txt` - abundances for 85,000 main sequence stars observed with the [GALAH survey Third Data Release](https://www.galah-survey.org/dr3/overview/).
 The desired subset of data were reformatted into a convenient ASCII column format for this plot.
 
+### Figure 1.10 - Gaia EDR3 H-R diagram
+
+`Gaia_EDR3_HR.txt` - color-magnitude data for 226,635 local stars extracted from the from Gaia EDR3 database. See the Jupyter notebook for
+details on the search query and contents.
+
+### Figure 1.11 - Mass-loss H-R diagram
+
+`Cranmer_Saar_2011.txt` - data from Cranmer & Saar 2011 ApJ, 741, 54 and references therein.
+
+### Figure 1.12 and 1.13 - Main sequence masses, luminosities, and radii 
+
+`MainSequence_MLR.txt` - Main-sequence mass, luminosity, and radius data derived from Eker et al. 2018, MNRAS, 479, 5491.
+
+### Figure 1.14 - Pleiades cluster H-R and P<sub>rot</sub> diagrams
+
+`Pleiades_Gaia_EDR3.txt` - Pleiades Gaia EDR3 photometry from Heyl et al. 2022, ApJ, 926, 132
+
+`Pleiades_Prot_Godoy.txt` - Pleiades Gaie DR2 photometry and rotation periods from Godoy-Rivera et al. 2021 ApJ, 257, 46.
+    
 ## Images
 The grayscale images in Figures 1.1 and 1.5 were created from original color images.
 
