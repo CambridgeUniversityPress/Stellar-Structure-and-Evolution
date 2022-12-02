@@ -10,7 +10,7 @@ Figures from Chapter 12 of Pinsonneault & Ryden, *Stellar Structure and Evolutio
     <dd>Figure 12.4 - Binary star evolution
     <dd>Figure 12.5 - Astrometric orbit of Algol AB
     <dd>Figure 12.7 - IUE UV spectrum of HR Delphinus
-    <dd>Figure 12.8 - Globular cluster NGC6397 color-magnitude diagram
+    <dd>Figure 12.8b - Globular cluster NGC6397 color-magnitude diagram
 </dl>
 
 ## Data Files
@@ -38,7 +38,7 @@ derived from Baron, F. et al. 2012 ApJ, 752, 20, Tables 3 and 6.
 VizieR [J/A+A/560/A49](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/560/A49) in FITS format.  The Jupyter notebook
 uses the `astroph.io.fits` package to read the original FITS file.
 
-### Figure 12.8 - NGC6397 color-magnitude diagram
+### Figure 12.8b - NGC6397 color-magnitude diagram
 
 `ngc6397phot.txt` contains *Hubble Space Telescope* photometry of globular cluster NGC6397.
 
