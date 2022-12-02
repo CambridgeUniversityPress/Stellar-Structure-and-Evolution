@@ -35,14 +35,19 @@ Data are from laboratory experiments, models adapted from Xu et al. 2013, Figure
 
 The data files are from [John Bahcall's Neutrino Software and Data](http://www.sns.ias.edu/~jnb/SNdata/sndata.html).  The text files used to plot
 the energy spectra are as follows:
-<dl>
- <dd>pp.txt - p-p chain data
- <dd>hep.txt - HEP channel data
- <dd>boron8.txt - <sup>8</sup>B channel data
- <dd>nitrogen13.txt - <sup>13</sup>N channel data
- <dd>oxygen15.txt - <sup>15</sup>O channel data
- <dd>fluorine17.txt  <sup>17</sup>F channel data
-</dl>
+
+`pp.txt` - p-p chain channel data
+
+`hep.txt` - HEP channel data
+
+`boron8.txt` - <sup>8</sup>B channel data
+
+`nitrogen13.txt` - <sup>13</sup>N channel data
+
+`oxygen15.txt` - <sup>15</sup>O channel data
+
+`fluorine17.txt` - <sup>17</sup>F channel data
+
 Some reformatting was required to get all of these different data files into a common file format for this plot.
 
 ## Revision History
