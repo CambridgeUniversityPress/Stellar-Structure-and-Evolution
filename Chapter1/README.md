@@ -19,7 +19,44 @@ Figures from Chapter 1 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 </dl>
 
 ## Data Files
-  
+
+### Figure 1.2 - Solar irradiance
+
+`sorce_tsi_L3_c24h_latest.txt` raw SORCE TIM Total Solar Irradiance data.  Source: http://lasp.colorado.edu/home/sorce/data/.  
+This version was downloaded on 2021 July 11.  We used the daily file version 3.19.
+
+### Figure 1.3 - Solar spectrum
+
+`Sun_ASTME-490-00.txt` - the [ASTM E-490-00 solar spectrum](https://www.nrel.gov/grid/solar-resource/spectra-astm-e490.html)
+solar spectrum from the US Department of Energy's [National Renewable Energy Laboratory](https://www.nrel.gov/index.html).
+
+### Figure 1.4 - Solar abundances
+
+`Lodders2020.txt` - solar abundace vs. atomic number from Lodders 2020, Solar Elemental Abundances, in The Oxford Research 
+Encyclopedia of Planetary Science, Oxford University Press. doi:10.1093/acrefore/9780190647926.013.145, Table 8, reformmated
+for the notebook.
+
+### Figure 1.6 - Alpha Cen AB orbit
+
+`AlphaCenAB_Obs_See1893.txt` - data from See (1893, MNRAS, 54, 102) expressed as angular separation and position angle of B from A, converted 
+to projected x,y coordinates in arcseconds.
+
+`AlphaCenAB_Eph.txt` - orbital ephemeris transformed into the alpha Cen A reference frame.
+
+### Figure 1.8 - MK spectral types
+
+The folder `MKTypes` contains the spectra of dwarf stars, types O5 thru M5, from A Library of Stellar Spectra by Jacoby, Hunter, & Christian 
+1984, ApJ, 56, 257. Data are rescaled to unity flux at 5500A and shifted by an arbitrary constant so that they will plot vertically stacked
+without overlaps, provided they are plotted in order. 
+
+Spectra are in individual ASCII text files named by star.  The `mkData.txt` is a list of spectral times for each spectrum file.  
+The Jupyter notebook uses this file to label the spectra.
+
+### Figure 1.9 - GALAH DR3 abundances
+
+`GALAH_DR3.txt` - abundances for 85,000 main sequence stars observed with the [GALAH survey Third Data Release](https://www.galah-survey.org/dr3/overview/).
+The desired subset of data were reformatted into a convenient ASCII column format for this plot.
+
 ## Images
 The grayscale images in Figures 1.1 and 1.5 were created from original color images.
 
