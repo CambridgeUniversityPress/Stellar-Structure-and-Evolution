@@ -33,11 +33,9 @@ Files have names
 
 ### Figure 4.4 - H and He ionization and adiabatic index
 
-Data files for Figure 4.1:
-<dl>
-   <dd>HHe_IonFraction.txt - Hydrogen and helium ionization fractions as a function of temperature
-   <dd>HHe_AdiabaticIndex.txt - adiabatic index (gamma) as a function of temperature for X=0.72, Y=0.28, density 10<sup>-7</sup>g/cm<sup>3</sup>
-</dl>
+`HHe_IonFraction.txt` - Hydrogen and helium ionization fractions as a function of temperature
+
+`HHe_AdiabaticIndex.txt` - adiabatic index (gamma) as a function of temperature for X=0.72, Y=0.28, density 10<sup>-7</sup>g/cm<sup>3</sup>
 
 ## Images
 
