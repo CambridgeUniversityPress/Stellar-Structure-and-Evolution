@@ -14,9 +14,7 @@ Figures from Chapter 4 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ### Figure 4.1 - Model solar interior
 
-<dl>
-   <dd>BP2004_solarInterior.txt - Bahcall & Pinsonnealt 2004 standard solar model interior
-</dl>
+`BP2004_solarInterior.txt` - Bahcall & Pinsonneault 2004 standard solar model interior
 
 ### Figure 4.2 - Oxygen and iron opacity
 
@@ -30,7 +28,7 @@ calculated for different densities from the [Opacity Project OPserver](opacities
 
 Files have names
 <dl>
-<dd>Rosseland_OP_rho<##>.txt - where <##> is the log10 density (+2, 0, -2, -4, -6, -10)
+<dd>Rosseland_OP_rho##.txt - where ## is the log10 density (+2, 0, -2, -4, -6, -10)
 </dl>
 
 ### Figure 4.4 - H and He ionization and adiabatic index
