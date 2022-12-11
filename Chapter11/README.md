@@ -37,7 +37,7 @@ light curves for the fundamental and first-overtone modes.  Data are from See So
 
 `OGLE-LMC-CEP-0832_b.txt` - isolated light curve of the first-overtone mode
 
-### Figure 11.7 - Adiabatic Non-Radial Pulsations in the standard solar model
+### Figure 11.7 - Adiabatic non-radial pulsations in the standard solar model
 
 Combines analytic calculations in the notebook with a solar model from author Marc Pinsonneault:
 
