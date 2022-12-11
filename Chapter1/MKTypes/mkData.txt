@@ -1,0 +1,14 @@
+filename      SpType
+HD242908.txt  O5
+HD158659.txt  B0
+HD30584.txt   B5
+HD116608.txt  A1
+HD9547.txt    A5
+HD10032.txt   F0
+HZ227.txt     F5
+HD28099.txt   G0
+TRA14.txt     G4
+HD23524.txt   K0
+SAO76803.txt  K5
+HD260655.txt  M0
+YALE1755.txt  M5
