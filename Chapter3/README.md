@@ -19,4 +19,5 @@ None
 
 ## Revision History
 
+ * 2022 Dec 11 - checked and added Jupyter notebooks [rwp/osu]
  * 2022 Dec 1 - First page created, template was ISM/IGM Chapter 3 [rwp/osu]
