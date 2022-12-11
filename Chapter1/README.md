@@ -90,4 +90,5 @@ VLT + SPHERE + ZIMPOL image of Betelgeuse at 645nm: [ESO 2003b](https://www.eso.
 
 ## Revision History
 
+ * 2022 Dec 11 - checked and added Jupyter notebooks [rwp/osu]
  * 2022 Dec 1 - First page created, template was ISM/IGM Chapter 1 [rwp/osu]
