@@ -23,7 +23,7 @@ and new explorations rather than being frozen into print.
 
 ## Software Requirements
 
-All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com). 
+All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
 Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda.
 
