@@ -75,4 +75,5 @@ Data are from Pinsonneault, M., et al. 2022, in prep, in 2 CSV files:
 
 ## Revision History
 
+ * 2022 Dec 11 - checked and added Jupyter notebooks [rwp/osu]
  * 2022 Dec 1 - First page created [rwp/osu]
