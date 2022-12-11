@@ -31,7 +31,21 @@ LaTeX is required for math symbols in the notebooks.
 
 ## Download, Install, and Updates
 
-*coming soon, after we test the instructions ourselves*
+### Download and Install
+
+To download a full copy of this repository onto your local computer, go to the folder on your computer where you want to install it and type
+
+> `git clone https://github.com/CambridgeUniversityPress/Stellar-Structure-and-Evolution`
+
+This will create the `Interstellar-and-Intergalactic-Medium` folder containing the entire repository.
+
+### Update
+
+To update an existing copy, go into your local copy of the repository (e.g., `/path/to/wherever/Stellar-Structure-and-Evolution`) and type
+
+> `git pull`
+
+If there are no updates, your local copy will be unaffected.
 
 ## Use and Attribution
 
