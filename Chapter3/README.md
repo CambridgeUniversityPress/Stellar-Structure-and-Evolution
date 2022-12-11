@@ -11,7 +11,7 @@ Figures from Chapter 3 of Pinsonneault & Ryden, *Stellar Structure and Evolution
 
 ## Data Files
 
-None
+None.  All computations are done in the notebooks.
 
 ## Images
 
