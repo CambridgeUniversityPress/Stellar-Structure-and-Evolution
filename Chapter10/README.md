@@ -56,4 +56,5 @@ We use a reduced version of the data file for simplicity of handling.
 
 ## Revision History
 
+ * 2022 Dec 11 - checked and added Jupyter notebooks [rwp/osu]
  * 2022 Dec 1 - First page created [rwp/osu]
