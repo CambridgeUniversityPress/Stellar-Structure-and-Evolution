@@ -8,7 +8,7 @@ Figures from Chapter 10 of Pinsonneault & Ryden, *Stellar Structure and Evolutio
     <dd>Figure 10.5 - Rotational mixing of nitrogen
     <dd>Figure 10.7 - Flux variation in the Sun and Sun-like Kepler Stars
     <dd>Figure 10.8 - Open cluster star rotation periods
-    <dd>Figure 10.9 - Kepler star mass-age-P<sub>rot<sub> diagram
+    <dd>Figure 10.9 - Kepler star mass-age-P<sub>rot</sub> diagram
 </dl>
 
 ## Data Files
