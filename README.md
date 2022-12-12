@@ -30,7 +30,7 @@ LaTeX is required for math symbols in the notebooks.
 
 ### Optional Packages
 
-A number of the figures in the book used the [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa)) 
+A number of the figures in the book used the [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa)
 package to compute stellar model data. Because MESA calculations can be computationally intensive and require careful setup, 
 all notebooks that used MESA data to make figures  have pre-computed MESA model output files associated with them. 
 
