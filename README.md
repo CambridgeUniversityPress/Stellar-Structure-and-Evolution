@@ -38,9 +38,10 @@ created by Dr. Pinsonneault and his students.
 Another group of figures use pre-computed models from the [MESA Isochrones and Stellar Tracks (MIST)](https://waps.cfa.harvard.edu/MIST/) database.
 Because MIST data files require a special python program to read (see the [MIST_codes](https://github.com/jieunchoi/MIST_codes)
 GitHub repository), we extracted the subset of the MIST data we wanted to plot into ASCII tables so that the Jupyter notebooks for the figures
-do not require you to install and use the MIST routines or download the very large MIST database files directly.  If you wish to explore
-these models beyond the illustrations chosen for this book, we recommend visiting the websites for these tools and citing the work
-of their creators.
+do not require you to install and use the MIST routines or download the very large MIST database files directly.
+
+If you wish to explore these models beyond the illustrations chosen for this book, we highly recommend learning how to use these powerful resources
+for making stellar models.
 
 ### Download and Install
 
