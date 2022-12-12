@@ -43,9 +43,9 @@ do not require you to install and use the MIST routines or download the very lar
 If you wish to explore these models beyond the illustrations chosen for this book, we highly recommend learning how to use these powerful resources
 for making stellar models.
 
-## Download and Install
+## Downloads
 
-### Download the repository
+### Download and Install
 
 To download a copy of this repository onto your local computer, go to the folder on your computer where you want to install it and type
 
