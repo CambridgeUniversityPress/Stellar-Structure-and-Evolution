@@ -28,7 +28,16 @@ Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of
 
 LaTeX is required for math symbols in the notebooks.
 
-## Download, Install, and Updates
+### Optional Packages
+
+A number of the figures in the book used the [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa)) 
+package to compute stellar model data. Because MESA calculations can be computationally intensive and require careful setup, 
+all notebooks that used MESA data to make figures  have pre-computed MESA model output files associated with them. 
+
+Some figures used a pre-computed models from the [MESA Isochrones and Stellar Tracks (MIST)](https://waps.cfa.harvard.edu/MIST/) database.
+Because MIST data requires a special python program to read the raw database files (see the [MIST_codes](https://github.com/jieunchoi/MIST_codes)
+GitHub repository), we processed the MIST data used into a pre-extracted form so that the Jupyter notebooks for the figures
+do not rely on using the larger MIST files directly.
 
 ### Download and Install
 
