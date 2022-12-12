@@ -32,12 +32,15 @@ LaTeX is required for math symbols in the notebooks.
 
 A number of the figures in the book used the [Modules for Experiments in Stellar Astrophysics (MESA)](https://github.com/MESAHub/mesa)
 package to compute stellar model data. Because MESA calculations can be computationally intensive and require careful setup, 
-all notebooks that used MESA data to make figures  have pre-computed MESA model output files associated with them. 
+all notebooks that used MESA data to make figures have pre-computed MESA model output files associated with them that were
+created by Dr. Pinsonneault and his students.
 
-Some figures used a pre-computed models from the [MESA Isochrones and Stellar Tracks (MIST)](https://waps.cfa.harvard.edu/MIST/) database.
-Because MIST data requires a special python program to read the raw database files (see the [MIST_codes](https://github.com/jieunchoi/MIST_codes)
-GitHub repository), we processed the MIST data used into a pre-extracted form so that the Jupyter notebooks for the figures
-do not rely on using the larger MIST files directly.
+Another group of figures use pre-computed models from the [MESA Isochrones and Stellar Tracks (MIST)](https://waps.cfa.harvard.edu/MIST/) database.
+Because MIST data files require a special python program to read (see the [MIST_codes](https://github.com/jieunchoi/MIST_codes)
+GitHub repository), we extracted the subset of the MIST data we wanted to plot into ASCII tables so that the Jupyter notebooks for the figures
+do not require you to install and use the MIST routines or download the very large MIST database files directly.  If you wish to explore
+these models beyond the illustrations chosen for this book, we recommend visiting the websites for these tools and citing the work
+of their creators.
 
 ### Download and Install
 
