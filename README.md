@@ -43,7 +43,9 @@ do not require you to install and use the MIST routines or download the very lar
 If you wish to explore these models beyond the illustrations chosen for this book, we highly recommend learning how to use these powerful resources
 for making stellar models.
 
-### Download and Install
+## Download and Install
+
+### Download the repository
 
 To download a copy of this repository onto your local computer, go to the folder on your computer where you want to install it and type
 
@@ -52,7 +54,7 @@ To download a copy of this repository onto your local computer, go to the folder
 This will create the `Stellar-Structure-and-Evolution` folder containing the entire repository.  You may rename this repository after
 installation to shorten the name if you wish (e.g., `/path/to/wherever/SSE`).
 
-### Update
+### Update the notebooks and data
 
 To update your copy, go into the top-level folder you created above (e.g., `/path/to/wherever/SSE`) and type
 
