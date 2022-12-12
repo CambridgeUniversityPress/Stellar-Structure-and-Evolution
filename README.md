@@ -6,19 +6,18 @@ Jupyter notebooks, python code, and selected data files and sources for the figu
 [!["SSE Cover"](Misc/SSE_Cover_512.png?raw=true "Stellar Structure and Evolution")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
 
 ## Overview
-*Stellar Structure and Evolution* by Marc Pinsonneault and Barbara S. Ryden is the secind volume in *The Ohio State Astrophysics Series* of 
+*Stellar Structure and Evolution* by Marc Pinsonneault and Barbara S. Ryden is the second volume in *The Ohio State Astrophysics Series* of 
 textbooks published by Cambridge University Press.  The audience for this series is graduate students and upper-level undergraduates studying
 astronomy and physics.
 
 Most of the figures in this book were created by the authors, the majority of which are plots of data or calculations made using
-Python programs implemented as Jupyter notebooks. We are making all of these notebooks available on GitHub as an ancillary 
-to the book, and will do this for all books in the series. GitHub will allow us to quickly update the notebooks
-and provides ways for teachers and students to easily keep their copies up to date.
+Python programs implemented as Jupyter notebooks. We are making all the notebooks available on GitHub as an ancillary 
+to the book.
 
 Instructors and students using *Stellar Structure and Evolution* are welcome to use these notebooks to make high-resolution versions
-of the book figures for presentation, adapt them for class, or use as the basis for problem sets or projects in courses adopting this
-book.  Over time we hope to collect and present other notebooks that will enable further explorations of topics in the book, become
-part of computational problem sets or individual and group projects, etc. This way, the figures become a starting point for learning
+of the book figures for presentations, adapt them for use in class, or to use as the basis for problem sets or projects in courses 
+adopting this book.  Over time we hope to collect and present other notebooks that will enable further explorations of topics in the book, 
+become part of computational problem sets or individual and group projects, etc. This way, the figures become a starting point for learning
 and new explorations rather than being frozen into print.
 
 ## Software Requirements
@@ -53,7 +52,7 @@ If there are no updates, your local copy will be unaffected.
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
 professional colleagues (always from published sources).  We ask that users preserve all literature citations to the original work
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
-reference to the *Interstellar and Intergalactic Medium* and this repository.
+reference to the *Stellar Structure and Evolution* book and this repository.
 
 ### License Notice
 
