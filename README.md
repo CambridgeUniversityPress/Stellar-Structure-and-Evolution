@@ -6,13 +6,14 @@ Jupyter notebooks, python code, and selected data files and sources for the figu
 [!["SSE Cover"](Misc/SSE_Cover_512.png?raw=true "Stellar Structure and Evolution")](https://www.cambridge.org/highereducation/books/stellar-structure-and-evolution/B6F803BC5085E8736B640F9ED4A0FA27)
 
 ## Overview
+
 *Stellar Structure and Evolution* by Marc Pinsonneault and Barbara S. Ryden is the second volume in *The Ohio State Astrophysics Series* of 
 textbooks published by Cambridge University Press.  The audience for this series is graduate students and upper-level undergraduates studying
 astronomy and physics.
 
-Most of the figures in this book were created by the authors, the majority of which are plots of data or calculations made using
-Python programs implemented as Jupyter notebooks. We are making all the notebooks available on GitHub as an ancillary 
-to the book.
+Most of the original figures in this book were created by the Richard Pogge (OSU), the technical editor of the OSAS book series.
+The majority are plots of data or calculations made using Python programs implemented as Jupyter notebooks. We are making 
+all the notebooks available on GitHub as an ancillary to the book.
 
 Instructors and students using *Stellar Structure and Evolution* are welcome to use these notebooks to make high-resolution versions
 of the book figures for presentations, adapt them for use in class, or to use as the basis for problem sets or projects in courses 
@@ -66,10 +67,11 @@ If there are no updates, your local copy will be unaffected.
 
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
 professional colleagues (always from published sources).  We ask that users preserve all literature citations to the original work
-from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
-reference to the *Stellar Structure and Evolution* book and this repository.
+from which such data were derived, and give proper credit when using them. If you use these notebooks, please cite the 
+*Stellar Structure and Evolution* book and cite this repository.
 
 ### License Notice
 
-All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), 
+All files in this repository are licensed under a 
+[Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), 
 to foster broader use of the notebooks and their data by teachers and students.
