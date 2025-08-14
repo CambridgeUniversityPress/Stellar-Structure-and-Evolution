@@ -72,6 +72,22 @@ professional colleagues (always from published sources).  We ask that users pres
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please cite the 
 *Stellar Structure and Evolution* book and cite this repository.
 
+### Book Citation
+
+DOI: [10.1017/978110886924](https://doi.org/10.1017/9781108869249)
+
+#### BibTeX
+```
+@BOOK{2023sse..book.....P,
+       author = {{Pinsonneault}, Marc H. and {Ryden}, Barbara Sue},
+        title = "{Stellar structure and evolution}",
+         year = 2023,
+          doi = {10.1017/9781108869249},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023sse..book.....P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+
 ### License Notice
 
 All files in this repository are licensed under a 
